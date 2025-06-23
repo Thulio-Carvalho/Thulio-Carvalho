@@ -10,7 +10,7 @@ I’m a software engineer from João Pessoa, Brazil (Federal University of Campi
 |--------------------|---------------------------|---------------------------|------------------------|
 | Node.js, Go        | AWS (EC2, Lambda, S3…)    | Docker, Terraform         | Python, TensorFlow     |
 | NoSQL / SQL        | K8S                       | Crossplane, CI/CD         | NumPy, Pandas, Keras   |
-| Python,  Caching   | Serverless architectures  | Grafana, Prometheus       |                        |
+| Python,  Caching   | Serverless architectures  | Grafana, Prometheus       | R, D3.js, matplotlib   |
 
 ## ⚡ Fun Fact  
 I love automating boring stuff and modding games too! (check out the pre-baker for RimWorld)
