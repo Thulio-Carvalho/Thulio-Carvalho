@@ -13,4 +13,5 @@ I’m a software engineer from João Pessoa, Brazil (Federal University of Campi
 | Python,  Caching   | Serverless architectures  | Grafana, Prometheus       | R, D3.js, matplotlib   |
 
 ## ⚡ Fun Fact  
-I love automating boring stuff and modding games too! (check out the pre-baker for RimWorld)
+- I love automating boring stuff and modding games too! (check out the pre-baker for RimWorld)
+- Pls be careful with your caching cluster 📄 [Paper on Distributed Caching Evaluation](https://github.com/Thulio-Carvalho/cache-eval)
