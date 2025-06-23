@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm Thúlio 👋
 
-<!--
-**Thulio-Carvalho/Thulio-Carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Engineer | SRE | Performance Nerd**
 
-Here are some ideas to get you started:
+I’m a software engineer from João Pessoa, Brazil (Federal University of Campina Grande alum), passionate about building scalable, efficient systems. My experience includes working at VTEX doing infra optimizations, developing large-scale fiscal systems and some freelancing building secure AWS architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** Here's what I like to mess with the most
+
+| 🔧 Backend         | ☁️ Cloud/Infra             | 🛠️ Tools & DevOps         | 📊 Data & AI          |
+|--------------------|---------------------------|---------------------------|------------------------|
+| Node.js, Go        | AWS (EC2, Lambda, S3…)    | Docker, Terraform         | Python, TensorFlow     |
+| NoSQL / SQL        | K8S                       | Crossplane, CI/CD         | NumPy, Pandas, Keras   |
+| Python,  Caching   | Serverless architectures  | Grafana, Prometheus       |                        |
+
+## ⚡ Fun Fact  
+I love automating boring stuff and modding games too! (check out the pre-baker for RimWorld)
